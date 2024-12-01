@@ -7,7 +7,7 @@ import { Howl } from "howler";
 import imageurl from "./assets/image copy.png";
 import bgimage from "./assets/image copy 5.png";
 import "./style.css";
-import { Search } from "./Components/Search.jsx";
+import { Search } from "./components/Search.jsx";
 import michael from "./assets/image copy 3.png"
 import alb4 from "./assets/image copy 7.png";
 import alb1 from "./assets/image copy 6.png";
